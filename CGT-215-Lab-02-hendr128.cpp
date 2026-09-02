@@ -24,4 +24,6 @@ int main()
 
     cout << "The answer is:" << endl;
     cout << "x=" << X;
+
+    return 0;
 }
